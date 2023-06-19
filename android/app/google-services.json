@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186849860335",
+    "project_id": "anglaraauth",
+    "storage_bucket": "anglaraauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186849860335:android:c34b80f42bb87affd3991a",
+        "android_client_info": {
+          "package_name": "com.anglara.anglaratask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186849860335-hvjg3uuisekp9q242r7co8vbdaj8du6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGSJO6pZ-EtA83ANIcWkVROm2Rgu8l3OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186849860335-hvjg3uuisekp9q242r7co8vbdaj8du6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
